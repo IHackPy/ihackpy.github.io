@@ -1,2 +1,2 @@
-this is my personal website.
-My website: https://himanshuawasthi95.github.io/
+this is my portfolio website
+click here --> https://himanshuawasthi95.github.io/
