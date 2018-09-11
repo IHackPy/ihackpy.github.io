@@ -1,2 +1,51 @@
-plugins:
-      - jekyll-seo-tag
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: end2end
+description: "My Profile"
+keywords: "IHackPy, Python, free, download, SEO, blog, web"
+url: http://ihackpy.github.io
+baseurl: "/ihackpy"
+
+google_analytics: UA-52446115-1
+repo: http://github.com/IHackPy/ihackpy.github.io
+disqus_shortname: "ihackpy"
+disqus_site_shortname: "ihackpy"
+
+# Author settings
+author:
+  name: Himanshu Awasthi
+  job: Computeer Science Engineer
+  bio: "Python Enthusiast, Organizer of KanpurPython & PyData Kanpur Community, Dean of Kanpur School of AI."
+  thumb: /images/author.jpg
+  email: kanpurpython@gmail.com
+  url: https://ihackpy.github.io/
+  github: https://github.com/IHackPy
+  twitter: https://twitter.com/IHackPY
+  facebook: https://facebook.com/himanshu.awasthi.10485
+  linkedin: https://linkedin.com/in/ihackpy
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: icons
+    title: Icons
+  - slug: blog
+    title: Blog
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
