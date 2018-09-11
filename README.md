@@ -1,4 +1,4 @@
-# end2end Clean Jekyll theme [![Build Status](https://travis-ci.org/nandomoreirame/end2end.svg?branch=master)](https://travis-ci.org/nandomoreirame/end2end)
+# IHackPY Clean Jekyll theme [![Build Status](https://travis-ci.org/nandomoreirame/IHackPY.svg?branch=master)](https://travis-ci.org/nandomoreirame/IHackPY)
 
 
 
@@ -17,12 +17,12 @@
 
 ### Start in 4 steps
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/end2end.git`
-2. Enter the folder: `cd end2end/`
+1. Download or clone repo `git clone git@github.com:nandomoreirame/IHackPY.git`
+2. Enter the folder: `cd IHackPY/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `bundle exec jekyll serve`
 
-Access, [localhost:4000/end2end](http://localhost:4000/end2end)
+Access, [localhost:4000/IHackPY](http://localhost:4000/IHackPY)
 
 ### Deploy in Github pages in 2 steps
 
@@ -40,10 +40,10 @@ Access, [localhost:4000/end2end](http://localhost:4000/end2end)
 
 ### Demo and Download
 
-[Demo](https://nandomoreirame.github.io/end2end/)
-[Download](https://github.com/nandomoreirame/end2end/archive/master.zip)
+[Demo](https://nandomoreirame.github.io/IHackPY/)
+[Download](https://github.com/nandomoreirame/IHackPY/archive/master.zip)
 
-![end2end - free Jekyll theme](/screenshot.png)
+![IHackPY - free Jekyll theme](/screenshot.png)
 
 ---
 
