@@ -22,7 +22,7 @@ url: http://ihackpy.github.io
 baseurl: "/ihackpy"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/IHackPy/ihackpy.github.io
+repo: http://github.com/IHackPy/ihackpy.github.io/
 disqus_shortname: "ihackpy"
 disqus_site_shortname: "ihackpy"
 
