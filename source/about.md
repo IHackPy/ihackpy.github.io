@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm the organiser of [Kanpur Python](https://www.meetup.com/KanpurPython) and [PyData Kanpur](https://www.meetup.com/PyDataKanpur). Free and open source software enthusiast, and passionate about Python and Data Science, I'm Dean of [Kanpur School of AI](https://www.meetup.com/Kanpur-School-of-AI/) & active member of KanpurFOSS Organization which organize free technical workshops in India.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can learn more about KanpurFOSS Community at: [KanpurFOSS](https://kanpurfoss.org)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can connect with KanpurFOSS Community at [Slack](https://wpkanpur.herokuapp.com/)
